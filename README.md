@@ -26,7 +26,12 @@ I'm currently Final Year Student in Computer Graphics and Multimedia | Universit
 <a href="mailto:eidham2002@gmail.com"target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="30" width="40"/></a>  
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nonzi19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=nonzi19&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
+###
 ---
 
 Feel free to check out my projects and connect with me for potential collaborations. Let's create something amazing together! 🚀
