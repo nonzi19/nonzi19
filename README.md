@@ -6,7 +6,7 @@
 
 ## 🕵🏻 About Me:
 
-💻 - I'm currently Final Year Student in Computer Graphics and Multimedia | Universiti Malaysia Pahang Al-Sultan Abdullah
+💻 - I'm currently Final Year Student in Computer Graphics and Multimedia | Universiti Malaysia Pahang Al-Sultan Abdullah<br>
 🎯 - Actively seeking an internship opportunity in March 2025 to expand my skills and industry experience
 
 I may not be the most naturally creative designer, but I thrive on challenges and constantly push myself to explore new possibilities. 
@@ -39,3 +39,5 @@ I believe in continuous learning and adaptability, always seeking opportunities 
 <a href="https://instagram.com/eidhamz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eidhamz" height="30" width="40" /></a>
 <a href="mailto:eidham2002@gmail.com"target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="30" width="40"/></a>  
 </p>
+
+
