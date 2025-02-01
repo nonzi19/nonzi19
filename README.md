@@ -34,6 +34,8 @@ I believe in continuous learning and adaptability, always seeking opportunities 
 <a href="mailto:eidham2002@gmail.com"target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="30" width="40"/></a>  
 </p>
 
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nonzi19&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonzi19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180px" />
