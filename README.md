@@ -22,8 +22,8 @@ I believe in continuous learning and adaptability, always seeking opportunities 
 ## 😄 Pronouns:
 - **He/Him**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nonzi19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nonzi19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nonzi19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🛠️ My Skills:
