@@ -10,7 +10,7 @@
 🎯 - Actively seeking an internship opportunity in March 2025 to expand my skills and industry experience
 
 I may not be the most naturally creative designer, but I thrive on challenges and constantly push myself to explore new possibilities. 
-My passion lies in development and technology, and I’m eager to expand my skills in software development and SAP as I shape my career. 
+My passion lies in development and design, and I’m eager to expand my skills in software development and SAP too  as I shape my career. 
 I believe in continuous learning and adaptability, always seeking opportunities to grow and improve in the ever-evolving tech industry.
 
 <div align="center">
