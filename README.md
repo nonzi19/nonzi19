@@ -9,18 +9,16 @@
 I may not be the most naturally creative designer, but I thrive on challenges and constantly push myself to explore new possibilities. 
 My passion lies in development and design, and I’m eager to expand my skills in software/game/immersive technology development as I shape my career. 
 I believe in continuous learning and adaptability, always seeking opportunities to grow and improve in the ever-evolving tech industry.
-Feel free to explore my repository to check out the projects I worked on during my degree.
+Feel free to explore my repository to check out the projects I worked on during my degree & my freelance.
 
+## 😄 Pronouns:
+- **He/Him/"AM"**
 
 ## 👀 Some of my favorite things:
 - **🏈Rugby**
 - **🔫Valorant**
 - **😿Talking to my cat**
 - **🏍 Ride**
-
-## 😄 Pronouns:
-- **He/Him/Handsome :D**
-
 
 ## 🛠️ My Thingy Skill Issue:
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
