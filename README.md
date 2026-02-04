@@ -11,11 +11,6 @@ My passion lies in development and design, and I’m eager to expand my skills i
 I believe in continuous learning and adaptability, always seeking opportunities to grow and improve in the ever-evolving tech industry.
 Feel free to explore my repository to check out the projects I worked on during my degree.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nonzi19&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonzi19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180px" />
-</div>
-
 
 ## 👀 Some of my favorite things:
 - **🏈Rugby**
