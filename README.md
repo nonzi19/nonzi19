@@ -32,6 +32,15 @@ Feel free to explore my repository to check out the projects I worked on during 
 </p>
 
 ## 🎧 Come Join My Jam:
-&nbsp;<div align="center">
-  [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
-</div>
+<h1>
+  i really like music :headphones:
+</h1>
+
+<!-- Nothing weird to see here -->
+<p align="center">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
+    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
+  </a>
+</p>
