@@ -4,11 +4,13 @@
   <img width="50%" src="https://giffiles.alphacoders.com/216/216308.gif">
 </p>
 
-## 🕵🏻 About Me:
+## 🕵🏻 A Little About Me...
 
 I may not be the most naturally creative designer, but I thrive on challenges and constantly push myself to explore new possibilities. 
+
 My passion lies in development and design, and I’m eager to expand my skills in software/game/immersive technology development as I shape my career. 
 I believe in continuous learning and adaptability, always seeking opportunities to grow and improve in the ever-evolving tech industry.
+
 Feel free to explore my repository to check out the projects I worked on during my degree & my freelance.
 
 ## 😄 Pronouns:
