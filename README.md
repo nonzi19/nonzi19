@@ -13,15 +13,23 @@ I believe in continuous learning and adaptability, always seeking opportunities 
 
 Feel free to explore my repository to check out the projects I worked on during my degree & my freelance.
 
-## 😄 Pronouns:
-- **He/Him/"AM"**
+## 😄 Pronouns
+- **He/Him**
 
-## 👀 Some of my favorite things:
+## 👀 Some of my favorite things
 - **🏈 Rugby**
 - **🔫 PC GAME**
 - **🏍 Ride**
 
-## 🛠️ My Skill Issue:
+## 🎧 I really like music  
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=317smz3pebxos4ithvetdtpidicy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317smz3pebxos4ithvetdtpidicy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=4ba348&bar_color_cover=true&mode=dark">
+  </a>
+</p>
+
+## 🛠️ My Skill Issue 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 ## 📫 Connect With Me:
@@ -31,10 +39,4 @@ Feel free to explore my repository to check out the projects I worked on during 
 <a href="mailto:eidham2002@gmail.com"target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="30" width="40"/></a>  
 </p>
 
-## i really like music :headphones: 
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=317smz3pebxos4ithvetdtpidicy&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317smz3pebxos4ithvetdtpidicy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=4ba348&bar_color_cover=true&mode=dark">
-  </a>
-</p>
