@@ -32,9 +32,6 @@ Feel free to explore my repository to check out the projects I worked on during 
 </p>
 
 ## 🎧 Come Join My Jam:
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=317smz3pebxos4ithvetdtpidicy&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317smz3pebxos4ithvetdtpidicy&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false">
-  </a>
-</p>
-
+&nbsp;<div align="center">
+  [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
+</div>
