@@ -31,16 +31,10 @@ Feel free to explore my repository to check out the projects I worked on during 
 <a href="mailto:eidham2002@gmail.com"target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="30" width="40"/></a>  
 </p>
 
-## 🎧 Come Join My Jam:
-<h1>
-  i really like music :headphones:
-</h1>
+## i really like music :headphones: 
 
-<!-- Nothing weird to see here -->
 <p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
-    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=317smz3pebxos4ithvetdtpidicy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317smz3pebxos4ithvetdtpidicy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=4ba348&bar_color_cover=true&mode=dark">
   </a>
 </p>
