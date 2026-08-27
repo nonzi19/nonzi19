@@ -21,7 +21,7 @@ Feel free to explore my repository to check out the projects I worked on during 
 - **🔫 PC GAME**
 - **🏍 Ride**
 
-## 🎧 I really like music  
+## 🎧 I Really Like Music  
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=317smz3pebxos4ithvetdtpidicy&redirect=true">
